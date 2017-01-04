@@ -1,0 +1,3 @@
+pod 'FatSecretKit'
+
+pod 'SVHTTPRequest'

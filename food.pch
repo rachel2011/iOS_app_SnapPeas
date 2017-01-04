@@ -1,0 +1,14 @@
+//
+//  food.pch
+//  SnapPeas
+//
+//  Created by jredu on 15/7/21.
+//  Copyright (c) 2015年 wustl. All rights reserved.
+//
+
+#ifndef SnapPeas_food_pch
+#define SnapPeas_food_pch
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif
